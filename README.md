@@ -1,15 +1,28 @@
+<<<<<<< HEAD
 ### Date created
 2021.
+||||||| abf56b6
+### Date created
+Include the date you created this project and README file.
+=======
+## Date created
+Include the date you created this project and README file.
+2021
+>>>>>>> documentation
 
 ### Project Title
 Replace the Project Title
-
+ bikeshare 
 ### Description
 Describe what your project is about and what it does
+it's about bikeshare by using python
 
 ### Files used
-Include the files used
+chicago
+new_york_sity
+washington
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+it's all from udasity.....
 
